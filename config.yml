@@ -23,9 +23,7 @@ header:
 
 # Website footer
 footer:
- text:    "Le site à été mis à jour le 16 janvier 2022 sur la base du protocole entré en vigueur le 14 janvier 2022.  
- Ce site a été conçu par l’association citoyenne de crise Faire École Ensemble avec le soutien d’un enseignant, d’une proviseurs et d’une directrice générale adjointe des services d’une commune sur la base du protocole sanitaire officiel disponible sur [https://education.gouv.fr/info-coronavirus](https://education.gouv.fr/info-coronavirus).\
-Le code source provient du travail d'[Etalab](https://www.etalab.gouv.fr/) et est disponible du site [ici](https://github.com/bzg/choices-protocole-sanitaire-education)."
+ text:    "Le site à été mis à jour le 16 janvier 2022 sur la base du protocole entré en vigueur le 14 janvier 2022.<br>Ce site a été conçu par l’association citoyenne de crise Faire École Ensemble avec le soutien d’un enseignant, d’une proviseurs et d’une directrice générale adjointe des services d’une commune sur la base du protocole sanitaire officiel disponible sur [https://education.gouv.fr/info-coronavirus](https://education.gouv.fr/info-coronavirus).<br>Le code source est disponible du site [ici](https://git.sr.ht/~bzg/choices-protocole-sanitaire-education)."
  contact:  "contact@protocole-ecole.fr"
 
 # Allow users to send you emails with the summary?
@@ -227,11 +225,11 @@ tree:
     done: true
 
   - node: "fin-2"
-    text: "Quel que soit le statut vaccinal de votre enfant : Isolement de 5 jours. Test PCR ou antigénique au bout de 5 jours. Si le test est encore positif, poursuite de l'isolement jusqu'à 7ème jour. Si le test est encore positif après 7 jours, votre enfant peut reprendre l’école s’il n’a plus de symptômes. S’il a encore des symptômes, vous pouvez demander un arrêt maladie à son médecin traitant.. Si le test est négatif et en l’absence de symptômes depuis 48 heures, votre enfant peut retourner en classe."
+    text: "Quel que soit le statut vaccinal de votre enfant : Isolement de 5 jours. Test PCR ou antigénique au bout de 5 jours. Si le test est encore positif, poursuite de l'isolement jusqu'à 7ème jour. Si le test est encore positif après 7 jours, votre enfant peut reprendre l’école s’il n’a plus de symptômes. S’il a encore des symptômes, vous pouvez demander un arrêt maladie à son médecin traitant. Si le test est négatif et en l’absence de symptômes depuis 48 heures, votre enfant peut retourner en classe."
     done: true
 
   - node: "fin-3"
-    text: "* Isolement de 5 jours. Test antigénique ou PCR au bout de 5 jours.. Si le test est encore positif, poursuite de l’Isolement jusqu’au 7ème jour. Si le test est encore positif après 10 jours, votre enfant peut reprendre l’école s’il n’a plus de symptômes. S’il a encore des symptômes, vous pouvez demander un arrêt maladie à son médecin traitant. Si le test est négatif et en l’absence de symptômes depuis 48 heures, votre enfant peut retourner en classe."
+    text: "Isolement de 5 jours. Test antigénique ou PCR au bout de 5 jours. Si le test est encore positif, poursuite de l’Isolement jusqu’au 7ème jour. Si le test est encore positif après 10 jours, votre enfant peut reprendre l’école s’il n’a plus de symptômes. S’il a encore des symptômes, vous pouvez demander un arrêt maladie à son médecin traitant. Si le test est négatif et en l’absence de symptômes depuis 48 heures, votre enfant peut retourner en classe."
     done: true
 
   - node: "fin-4"
