@@ -16,7 +16,7 @@ ui-strings:
 
 # Website header
 header:
- title:    "Protocole École"
+ title:    "Protocole sanitaire pour les écoles, collèges et lycées"
  logo:     "/img/logo-round-blue.png"
  color:    "is-info"
  subtitle: "Mon enfant est cas contact ou positif à la COVID-19, que faire ?"
