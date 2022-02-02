@@ -107,8 +107,7 @@
               [:img {:src logo}]]]]])
         [:div.column
          {:class (if (not-empty logo)
-                   "has-text-right"
-                   "has-text-centered")}
+                   "has-text-left")}
          [:h1.title (:title (:header config))]
          [:br]
          [:h2.subtitle
