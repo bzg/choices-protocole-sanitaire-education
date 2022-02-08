@@ -23,7 +23,7 @@ header:
 
 # Website footer
 footer:
- text:    "Le site à été mis à jour le 16 janvier 2022 sur la base du protocole entré en vigueur le 14 janvier 2022.<br><br>Ce site a été conçu par l’association citoyenne de crise Faire École Ensemble avec le soutien d’un enseignant, d’une proviseure et d’une directrice générale adjointe des services d’une commune sur la base du protocole sanitaire officiel disponible sur [https://education.gouv.fr/info-coronavirus](https://education.gouv.fr/info-coronavirus). Ce site est issu d'un travial bénévole et n'est ni conçu ni hébergé par les Ministère de L'Éducation Nationale et de la Jeunesse.<br><br>Le code source est disponible du site [ici](https://git.sr.ht/~bzg/choices-protocole-sanitaire-education).<br><br> Aucune donnée n'est collectée.<br>"
+ text:    "Le site à été mis à jour le 16 janvier 2022 sur la base du protocole entré en vigueur le 14 janvier 2022.<br><br>Ce site a été conçu par l’association citoyenne de crise Faire École Ensemble avec le soutien d’un enseignant, d’une proviseure et d’une directrice générale adjointe des services d’une commune sur la base du protocole sanitaire officiel disponible sur [https://education.gouv.fr/info-coronavirus](https://education.gouv.fr/info-coronavirus). Ce site est issu d'un travial bénévole et n'est ni conçu ni hébergé par les Ministère de l'Éducation Nationale et de la Jeunesse.<br><br>Le code source est disponible du site [ici](https://git.sr.ht/~bzg/choices-protocole-sanitaire-education).<br><br> Aucune donnée n'est collectée.<br>"
  contact:  "contact@fabpeda.org"
 
 # Allow users to send you emails with the summary?
