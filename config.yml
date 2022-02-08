@@ -16,7 +16,7 @@ ui-strings:
 
 # Website header
 header:
- title:    "Protocole École"
+ title:    "Protocole sanitaire pour les écoles, collèges et lycées"
  logo:     "/img/logo-round-blue.png"
  color:    "is-info"
  subtitle: "Mon enfant est cas contact ou positif à la COVID-19, que faire ?"
@@ -109,7 +109,7 @@ tree:
     start-page: true
     choices:
     - answer:  "Mon enfant est positif à la COVID-19."
-      summary: "Mon enfant est postifi à la COVID-19."
+      summary: "Mon enfant est positif à la COVID-19."
       goto:    "2"
       color:   "is-info"
     - answer:  "Mon enfant est cas contact."
@@ -136,7 +136,7 @@ tree:
         goto: "fin-3"
         color: "is-info"
       - answer:  "Non"
-        summary: "Non, mon enfant a reçu 2 doses ou moins de vaccins contre la COVID-19"
+        summary: "Non, mon enfant a reçu 2 doses ou moins de vaccins contre la COVID-19."
         color: "is-warning"
         goto: "fin-4"
 
@@ -163,11 +163,11 @@ tree:
   - node: "5"
     text: "Votre enfant a-t-il été infecté par la COVID-19 il y a moins de 2 mois ?"
     choices:
-      - answer: "moins de 2 mois"
+      - answer: "Moins de 2 mois"
         summary: "Mon enfant a eu la COVID-19 il y a moins de 2 mois."
         goto: "fin-5"
         color: "is-info"
-      - answer: "plus de deux mois"
+      - answer: "Plus de deux mois"
         summary: "Mon enfant n'a jamais eu la COVID-19 ou a été infecté il y a plus de 2 mois."
         goto: "6"
         color: "is-warning"
@@ -180,7 +180,7 @@ tree:
         goto: "7"
         color: "is-info"
       - answer: "Non"
-        summary: "Mon enfant n'a pas fait d'autotest."
+        summary: "Mon enfant n'a pas fait d'autotest (ou antigénique ou PCR)."
         goto: "fin-6"
         color: "is-warning"
 
@@ -199,12 +199,12 @@ tree:
   - node: "8"
     text: "Votre enfant a-t-il 12 ans ou plus ?"
     choices: 
-      - answer: "Mon enfant a moins de 12 ans"
+      - answer: "Mon enfant a moins de 12 ans."
         summary: "Mon enfant a moins de 12 ans."
         color: "is-info"
         goto: "5"
-      - answer: "Mon enfant a 12 ans ou plus"
-        summary: "Mon enfant a 12 ans ou plus"
+      - answer: "Mon enfant a 12 ans ou plus."
+        summary: "Mon enfant a 12 ans ou plus."
         color: "is-warning"
         goto: "9"
 
@@ -212,7 +212,7 @@ tree:
     text: "Votre enfant est-il entièrement vacciné contre la COVID-19 ?"
     choices:
       - answer: "Entièrement vaccinée"
-        summary: "Mon enfant est entièrement vacciné"
+        summary: "Mon enfant est entièrement vacciné."
         color: "is-info"
         goto: "5"
       - answer: "Partiellement ou non vacciné"
@@ -245,7 +245,7 @@ tree:
     done: true
 
   - node: "fin-7"
-    text: "Faites confirmer par un test antigénique ou PCR Si le test positif est confirmé, quel que soit le statut vaccinal de votre enfant : Isolement de 5 jours. Test PCR ou antigénique au bout de 5 jours. Si le test est encore positif, poursuite de l'isolement jusqu'à 7ème jour. Si le test est encore positif après 7 jours, votre enfant peut reprendre l’école s’il n’a plus de symptômes. S’il a encore des symptômes, vous pouvez demander un arrêt maladie à son médecin traitant. Si le test est négatif et en l’absence de symptômes depuis 48 heures, votre enfant peut retourner en classe"
+    text: "Faites confirmer par un test antigénique ou PCR Si le test positif est confirmé, quel que soit le statut vaccinal de votre enfant : Isolement de 5 jours. Test PCR ou antigénique au bout de 5 jours. Si le test est encore positif, poursuite de l'isolement jusqu'à 7ème jour. Si le test est encore positif après 7 jours, votre enfant peut reprendre l’école s’il n’a plus de symptômes. S’il a encore des symptômes, vous pouvez demander un arrêt maladie à son médecin traitant. Si le test est négatif et en l’absence de symptômes depuis 48 heures, votre enfant peut retourner en classe."
     done: true
 
   - node: "fin-8"
